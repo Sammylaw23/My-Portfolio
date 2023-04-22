@@ -1,8 +1,13 @@
 [
   {
     "name": "home",
-    "src": "images/server-wall.jpg",
-    "alt": "woman holding laptop standing by server room with glass wall"
+    "src": "images/chair-and-table.jpg",
+    "alt": "chair and table"
+  },
+  {
+    "name": "home2",
+    "src": "images/head-shot.jpeg",
+    "alt": "man folding hands and looking straight"
   },
   {
     "name": "about",
